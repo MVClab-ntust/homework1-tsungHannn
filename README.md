@@ -3,5 +3,7 @@
 
 # Data
 ![image](https://github.com/mvclab-ntust-course/homework1-tsungHannn/assets/85086644/b11c647a-3031-4057-a267-477dc9ff836f)
+
+
 test跟train裡面是分類，每個類別都是.png
 
